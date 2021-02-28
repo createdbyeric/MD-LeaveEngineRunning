@@ -1,5 +1,9 @@
 # Information
-This lightweight script allows players to get out of the vehicle while either turning the engine off or leaving it on. If you want to leave the vehicle like normal, just press F. If you wish to leave the vehicle but leave the engine running, just hold F.
+This lightweight script allows players to get out of the vehicle while either turning the engine off or leaving it on. If you want to leave the vehicle like normal, just press F. If you wish to leave the vehicle but leave the engine running, just hold F. 
+
+This script has two configurable options. 
+  1. Set to police vehicles only
+  2. Set to leave door open when leaving vehicle with engine running.
 
 # How To Use
 1. Download via Github
