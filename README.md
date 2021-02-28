@@ -8,7 +8,7 @@ This script has two configurable options.
 # How To Use
 1. Download via Github
 2. Open Zipped Folder
-3. Open 'MD_LeaveEngineRunning-main' folder
+3. Open 'MD-LeaveEngineRunning-main' folder
 4. Drag 'md_leaveenginerunning' to your 'resources' folder
 5. Add 'start md_leaveenginerunning' or 'ensure md_leaveenginerunning' (depending server version) to your server.cfg file
 6. Start Server
