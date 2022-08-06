@@ -1,5 +1,7 @@
 # Information
-This lightweight script allows players to get out of the vehicle while either turning the engine off or leaving it on. If you want to leave the vehicle like normal, just press F. If you wish to leave the vehicle but leave the engine running, just hold F. This script is most useful for role playing servers with police departments. Add relasim to police scenarios since police never turn their vehicles off.
+This lightweight script allows players to get out of the vehicle while either turning the engine off or leaving it on. If you want to leave the vehicle like normal, just press F. If you wish to leave the vehicle but leave the engine running, just hold F. This script is most useful for role playing servers with police departments. 
+
+This scrip adds realism to police scenarios since police never turn their vehicles off.
 
 This script has two configurable options. 
   1. Set to police vehicles only
