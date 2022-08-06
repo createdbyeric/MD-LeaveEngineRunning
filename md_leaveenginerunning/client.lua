@@ -1,5 +1,7 @@
-RestrictEmer = false -- Emergency Vehicles Only
-keepDoorOpen = false -- Keep Door Open When Getting Out
+RestrictEmer = false -- Use 'True' for Emergency Vehicles Only
+keepDoorOpen = false -- Use 'True' for Keep Door Open When Getting Out
+
+-- DO NOT EDIT BLEOW THIS LINE - SCRIPT WILL BREAK --
 
 Citizen.CreateThread(function()
     while true do
